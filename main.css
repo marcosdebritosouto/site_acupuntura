@@ -160,6 +160,7 @@ footer {
 .articles article {
     width: 45%;
     margin-top: 48px;
+    margin-left: -128px;
 }
 
 section {
